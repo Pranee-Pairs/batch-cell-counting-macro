@@ -1,5 +1,5 @@
-// Batch Algae Cell Counter
-// Automated counting of algae cells from brightfield microscopy images
+// Batch Cell Counter
+// Automated counting of cells from brightfield microscopy images
 
 setBatchMode(true); // Set batch mode to speed up processing and avoid displaying each image
 
